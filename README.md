@@ -17,3 +17,7 @@ echo "$(curl -fsSL https://raw.githubusercontent.com/smj10j/ghostly-business/mas
 casperjs test boo.js
 open *.png
 ```
+
+
+3. I guess I don't have a step 3
+
